@@ -1,0 +1,9 @@
+{
+  "method": "Local Outlier Factor",
+  "n_neighbors": 20,
+  "contamination": 0.1,
+  "auc_score": 0.6941975308641974,
+  "anomalies_detected": 31,
+  "training_samples": 700,
+  "test_samples": 300
+}

@@ -1,0 +1,8 @@
+{
+  "method": "Statistical Z-score",
+  "threshold": 2.5,
+  "auc_score": 1.0,
+  "anomalies_detected": 26,
+  "training_samples": 700,
+  "test_samples": 300
+}

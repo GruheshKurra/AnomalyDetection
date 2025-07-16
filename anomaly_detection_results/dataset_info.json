@@ -1,0 +1,17 @@
+{
+  "total_samples": 1000,
+  "normal_samples": 900,
+  "anomaly_samples": 100,
+  "contamination_rate": 0.1,
+  "feature_ranges": {
+    "feature_1": [
+      -3.2261764510638944,
+      5.8698331124612775
+    ],
+    "feature_2": [
+      -2.938185716122409,
+      6.218723265809128
+    ]
+  },
+  "creation_timestamp": "2025-07-15T17:11:05.449398"
+}

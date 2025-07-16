@@ -1,0 +1,17 @@
+{
+  "method": "Autoencoder",
+  "threshold_percentile": 95,
+  "threshold_value": 2.3291244506835938,
+  "auc_score": 0.9995061728395062,
+  "anomalies_detected": 15,
+  "test_samples": 300,
+  "config": {
+    "input_dim": 2,
+    "hidden_dim": 8,
+    "learning_rate": 0.0001,
+    "device": "mps",
+    "architecture": "Simple Autoencoder",
+    "optimizer": "Adam",
+    "loss_function": "MSE"
+  }
+}

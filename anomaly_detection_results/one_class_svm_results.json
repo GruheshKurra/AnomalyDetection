@@ -1,0 +1,10 @@
+{
+  "method": "One-Class SVM",
+  "nu": 0.1,
+  "kernel": "rbf",
+  "gamma": "scale",
+  "auc_score": 0.9134567901234568,
+  "anomalies_detected": 32,
+  "training_samples": 700,
+  "test_samples": 300
+}

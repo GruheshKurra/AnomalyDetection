@@ -1,0 +1,9 @@
+{
+  "method": "Isolation Forest",
+  "n_estimators": 100,
+  "contamination": 0.1,
+  "auc_score": 0.9834567901234568,
+  "anomalies_detected": 31,
+  "training_samples": 700,
+  "test_samples": 300
+}
